@@ -1,0 +1,10 @@
+.site__title {
+    margin-top: 100px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+.mainForm {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 40px;
+}
